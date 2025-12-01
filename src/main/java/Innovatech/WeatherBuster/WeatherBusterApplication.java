@@ -10,4 +10,6 @@ public class WeatherBusterApplication {
 		SpringApplication.run(WeatherBusterApplication.class, args);
 	}
 
+	
+
 }
